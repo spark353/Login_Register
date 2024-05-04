@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-size: cover;
+    background: linear-gradient(to bottom, #43cea2, #185a9d) no-repeat fixed center;
+}
